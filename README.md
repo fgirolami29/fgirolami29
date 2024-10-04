@@ -27,8 +27,11 @@
 ---
 
 📫 **Contatti**  
+
 🌏 **WebSite**: [codecorn.it](https://codecorn.it)  Under Construction
+
 📧 **Email**: [f.girolami@codecorn.it](mailto:f.girolami@codecorn.it)  
+
 🐙 **GitHub**: [github.com/fgirolami29](https://github.com/fgirolami29)
 
 ---  
