@@ -3,7 +3,7 @@
 **Full Stack Developer** | **System Integrator** | **Digital Solution Architect** 🚀  
 Founder & Lead Systems Architect — [CodeCorn™ Technology SRLS](https://codecorn.it)
 
-![CodeCornTechnology™]([https://i.postimg.cc/TP3ttFM8/CODECORN-trasp-white-ORI.png)
+<img alt="CodeCornTechnology™" src="https://i.postimg.cc/TP3ttFM8/CODECORN-trasp-white-ORI.png" width="250px" />
 
 <!-- Orgs Badge section -->
 
