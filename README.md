@@ -1,140 +1,87 @@
-# 👨‍💻 Federico Girolami
+# Federico Girolami
 
-**Full Stack Developer** | **System Integrator** | **Digital Solution Architect** 🚀  
-Founder & Lead Systems Architect — [CodeCorn™ Technology SRLS](https://codecorn.it)
+**Full Stack Developer** | **System Integrator** | **Digital Solution Architect**  
+Founder & Lead Systems Architect at [CodeCorn Technology SRLS](https://codecorn.it)
 
-<img alt="CodeCornTechnology™" src="https://i.postimg.cc/TP3ttFM8/CODECORN-trasp-white-ORI.png" width="250px" />
+I build practical digital systems: custom web platforms, Docker-based infrastructures, WordPress/WooCommerce tooling, automation stacks, and business software that has to work in the real world.
 
-<!-- Orgs Badge section -->
+My work sits between software engineering, systems integration, and product delivery. I like code that is clear, deployable, observable, and easy to maintain after the first release.
 
-[![Organization: CodeCorn™](https://img.shields.io/badge/CodeCorn-Technology-%23C1A269?style=for-the-badge&logo=coffeescript&logoColor=white)](https://github.com/CodeCornTech)
-[![Organization: PyTorchia Legion](https://img.shields.io/badge/PyTorchia-Legion-%2300BFFF?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/PytorchiaOrg)
-
-<!-- Badge section -->
-
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Shell Script](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![CodeCorn Technology](https://img.shields.io/badge/CodeCorn-Technology-%23C1A269?style=for-the-badge&logo=coffeescript&logoColor=white)](https://github.com/CodeCornTech)
+[![PyTorchia Legion](https://img.shields.io/badge/PyTorchia-Legion-%2300BFFF?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/PytorchiaOrg)
 
 ---
 
-## 🧠 About Me
+## What I Do
 
-Ciao , sono **Federico Girolami** , fondatore e sviluppatore indipendente di **CodeCorn™ Technology SRLS** , dove progetto sistemi distribuiti , infrastrutture Docker e soluzioni digitali personalizzate .  
-Sono un **self-taught engineer** con un approccio pratico , creativo e orientato all’ automazione intelligente .
-
-Ho ideato **PyTorchia™ Legion** , un ecosistema open-tech incentrato su _swarm intelligence , trasparenza e resilienza del codice_ , in cui ogni container , script o nodo coopera come parte di una legione distribuita .
-
-> _“Automation is not just efficiency — it’s clarity , discipline , and art.”_
-
----
-
-## 💻 Tecnologie & Competenze
-
--   🔙 **Backend** : Node.js ( TypeScript ) , PHP , Python
--   🎨 **Frontend** : JavaScript ESNext , HTML5 , CSS3 , Tailwind , React
--   ⚙️ **DevOps & Systems** : Docker , Proxmox , NFS , Cloud-Init , Bash ANSI Automation
--   🛒 **eCommerce** : WordPress , WooCommerce , Custom API integrations
--   🔐 **Integrazioni** : LDAP , JWT , OAuth2 , OwnCloud , Wekan
--   🧩 **Tooling & Architectures** : GitHub Actions , Portainer , Redis , MariaDB , Swarm
--   📦 **Language Focus** : TypeScript + Bash hybrid ecosystems
--   🧠 **Frameworks & Utilities** : PyTorchia Stack , WorkInk™ , Work-In App
+- Build full-stack web applications and internal tools.
+- Design Docker, Proxmox, Nginx, Redis, MariaDB, and automation workflows.
+- Create custom WordPress and WooCommerce integrations.
+- Connect legacy systems, APIs, authentication layers, and operational dashboards.
+- Turn repeated manual processes into maintainable scripts and deployable services.
 
 ---
 
-## 🏆 Ultimi Traguardi
+## Core Stack
 
--   📱 **Work-In App** — PWA HR multi-azienda con gestione turni , timbrature QR / NFC , GPS intelligente , documentale avanzato e dashboard amministrativa .
--   ⚙️ **PyTorchia™ Stack v2.6.1** — Toolchain di automazione Bash interattiva con DRY-RUN , versioning e auto-deploy su Proxmox e Docker .
--   🧩 **WorkInk™ Contracts Engine** — OCR + Jinja2 per contratti PDF firmabili con QR , timbro e hash SHA256 .
--   ☁️ **Infrastructure-as-Code Initiative** — provisioning automatico di ambienti Docker Swarm e backup Proxmox con restore dinamico .
--   🧱 **CodeCorn™ Web Division** — Branding , UX / UI , e gestione full-stack per siti **Full CUSTOM** .
+**Languages**  
+TypeScript, JavaScript, PHP, Python, Bash
 
----
+**Frontend**  
+HTML, CSS, Tailwind, React, Vue, Progressive Web Apps
 
-## 🧩 Altri Progetti
+**Backend & Systems**  
+Node.js, PHP APIs, Docker, Proxmox, Nginx, Redis, MariaDB, GitHub Actions
 
-Ecco alcune delle librerie e tool open-source mantenuti:
-
--   [handlebars-email](https://github.com/fgirolami29/handlebars-email) — Template system per email con Handlebars + Integrazione API
--   [codecron-mysql-backup](https://github.com/fgirolami29/codecron-mysql-backup) — Utility Bash/Node per backup MySQL automatici, notifiche e retention
--   [euro-plate-validator](https://github.com/CodeCornTech/euro-plate-validator) — Validator di targhe europee in NodeJS + regex avanzate
--   [empty-session-reaper](https://github.com/CodeCornTech/empty-session-reaper) — Script per pulizia sessioni vuote in ambienti Express/Node
--   [corn-logger](https://github.com/CodeCornTech/corn-logger) — Logger personalizzato per applicazioni Node/TS, con output ANSI e rotazione file
--   [connect-flash-new](https://github.com/fgirolami29/connect-flash-new) — Fork / miglioramento di connect-flash per Express con Promises e TypeScript
-
-> _“Each module is a building block in the legion — small, independent and ready to scale.”_
+**Platforms & Integrations**  
+WordPress, WooCommerce, LDAP, JWT, OAuth2, OwnCloud, Wekan, Portainer
 
 ---
 
-## 🧩 Work-In App
+## Current Focus
 
-[www.work-in.it](https://www.work-in.it) · [app.work-in.it](https://app.work-in.it) _( Private Repository )_
+### Work-In App
 
-**Work-In** è una **PWA cross-platform** sviluppata da **CodeCorn™ Technology SRLS** per digitalizzare la comunicazione tra **azienda e dipendenti** .  
-L’ app consente la gestione completa di turni , timbrature , documentazione e workflow HR in ambienti multi-azienda , multi-sede e in tempo reale .
+[www.work-in.it](https://www.work-in.it) · [app.work-in.it](https://app.work-in.it) · Private repository
 
-### ⚙️ Tecnologie & Architettura
+A cross-platform PWA by CodeCorn Technology SRLS for company-to-employee communication, shifts, attendance, documents, HR workflows, notifications, dashboards, and multi-company operations.
 
--   **Frontend** : TypeScript · Vue.js · Progressive Web App
--   **Backend** : Node.js + PHP Hybrid API
--   **Database** : MySQL / Redis ( cache )
--   **Infrastruttura** : Docker + PyTorchia Stack · Nginx reverse proxy · Cloud deploy
--   **Sicurezza** : JWT , crittografia PDF , QR / NFC e autenticazione avanzata
+**Stack:** TypeScript, Vue.js, Node.js, PHP, MySQL, Redis, Docker, Nginx, JWT, QR/NFC flows.
 
-### 📱 Funzionalità principali
+### PyTorchia Stack
 
--   📆 **Gestione turni** con invio automatico via WhatsApp / SMS e conferma QR-Code o NFC
--   📍 **Geolocalizzazione** intelligente ( GPS reverse mapping per assegnazione ottimizzata del personale )
--   🧾 **Gestione documentale avanzata** ( LUL , buste paga , attestati , CU , contestazioni )
--   🔔 **Notifiche push & alert** con sistemi di conferma e audit trail
--   🧠 **Modulo HR dinamico** per richieste permessi personalizzabili ( malattia , ferie , 104 , maternità , ecc . )
--   🕵️ **Whistleblowing module** per segnalazioni anonime e conformità normativa
--   📊 **Dashboard analitiche** e grafici per produttività , carichi di lavoro , KPI e performance
--   💾 **Compatibilità universale** : iOS · Android · Windows · Linux · Harmony OS
+An automation-oriented stack for Docker and Proxmox environments, focused on repeatable deployments, dry runs, versioning, infrastructure tasks, and clear operational output.
 
-### 🚀 Traguardi
+### CodeCorn Web Division
 
--   Pubblicazione su **App Store ( iOS )** e **Play Store ( Android )**
--   Sistema completo di **gestione multi-azienda** con import / export massivo
--   Generazione automatica di **coordinate GPS** per ottimizzare trasferte e squadre
--   Interfaccia admin con **reportistica parametrica e grafici interattivi**
--   Moduli **PDF OCR e crittografia** integrati via PyTorchia™ Tools
-
-> “Work-In non è solo un’ app , ma un ecosistema gestionale pensato per semplificare la vita aziendale . ”
+Custom websites, UX/UI modernization, WordPress MU-plugins, WooCommerce flows, API integrations, and maintainable tooling for client projects.
 
 ---
 
-## 🔧 Progetti Recenti
+## Open Source & Tools
 
-1. **UI / UX Modernizzazione** — Interfacce responsive , modulari e a basso impatto .
-2. **Sicurezza & Networking** — Configurazione di VPN e tunnel SSH automatizzati .
-3. **Servizi Cloud** — Integrazione piattaforme con autenticazione centralizzata e auditing .
-4. **WordPress Advanced Tools** — MU-Plugins personalizzati per performance e sicurezza .
-
----
-
-## 💬 Filosofia
-
--   🧩 _Transparency First_ : ogni script deve spiegare cosa fa .
--   🐜 _Swarm Intelligence_ : ogni nodo collabora come parte della legione .
--   🎨 _Automation with Style_ : il codice è anche design e chiarezza .
+- [handlebars-email](https://github.com/fgirolami29/handlebars-email) — Email template system with Handlebars and API integration.
+- [codecron-mysql-backup](https://github.com/fgirolami29/codecron-mysql-backup) — Bash/Node utility for MySQL backups, notifications, and retention.
+- [euro-plate-validator](https://github.com/CodeCornTech/euro-plate-validator) — European license plate validation with Node.js and advanced regex rules.
+- [empty-session-reaper](https://github.com/CodeCornTech/empty-session-reaper) — Session cleanup tooling for Express/Node environments.
+- [corn-logger](https://github.com/CodeCornTech/corn-logger) — Custom logger for Node/TypeScript apps with ANSI output and file rotation.
+- [connect-flash-new](https://github.com/fgirolami29/connect-flash-new) — Improved connect-flash fork for Express, Promises, and TypeScript.
 
 ---
 
-## 📫 Contatti
+## Philosophy
 
-🌍 **Website** → [codecorn.it](https://codecorn.it) _( Under Construction )_  
-📧 **Email** → [f.girolami@codecorn.it](mailto:f.girolami@codecorn.it)  
-🐙 **GitHub** → [github.com/fgirolami29](https://github.com/fgirolami29)  
-🏗️ **Organization** → [github.com/CodeCornTech](https://github.com/CodeCornTech)
+- **Transparency first:** every script should make its behavior understandable.
+- **Automation with intent:** speed matters, but clarity and recovery matter more.
+- **Build once, deploy everywhere:** systems should be portable, observable, and maintainable.
 
 ---
 
-## ⚡ Motto
+## Contacts
 
-> _“Build it once . Deploy it everywhere . Maintain it with honor . ”_
+- Website: [codecorn.it](https://codecorn.it)
+- Email: [f.girolami@codecorn.it](mailto:f.girolami@codecorn.it)
+- GitHub: [github.com/fgirolami29](https://github.com/fgirolami29)
+- Organization: [github.com/CodeCornTech](https://github.com/CodeCornTech)
+
+> Build it once. Deploy it everywhere. Maintain it with honor.
